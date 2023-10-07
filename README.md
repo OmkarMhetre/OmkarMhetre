@@ -1,4 +1,4 @@
-![logo](https://github.com/OmkarMhetre/OmkarMhetre/blob/main/github-header-image.png)
+![logo](https://github.com/OmkarMhetre/OmkarMhetre/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Omkar Mhetre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
