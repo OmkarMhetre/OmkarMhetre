@@ -1,6 +1,6 @@
 ![logo](https://github.com/OmkarMhetre/OmkarMhetre/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Omkar Mhetre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/omkarmhetre4" target="blank"><img src="https://img.shields.io/twitter/follow/omkarmhetre4?logo=twitter&style=for-the-badge" alt="omkarmhetre4" /></a> </p>
 
-- 🌱 I’m currently learning **Spring,React,Django**
+- 🌱 I’m currently learning **LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmkarMhetre](https://github.com/OmkarMhetre)
 
